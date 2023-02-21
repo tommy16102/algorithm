@@ -3,14 +3,6 @@
 #include <vector>
 using namespace std;
 
-/*
-
-2021.08.05
-
-이전에 했던 ans배열을 뒤에서부터 가장 큰 수를 저장한 maxN부터 하나씩 감소시켜가며 1까지 찾는다.
-
-*/
-
 int arr[1001] = { 0, };
 int ans[1001];
 
